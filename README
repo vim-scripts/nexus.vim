@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=964
+
+This is a syntax highlighting for Nexus, a file format used by many programs in evolutionary biology, like GDA, Paup*, Mesquite, ModelTest, MrBayes and MacClade. A formal description can be found at
+
+Maddison, D.R., D.L. Swofford, and W.P. Maddison. 1997. NEXUS: An extensible file format for systematic information. Systematic Biology 46: 590-621
+
+while some examples and a short description can be found at
+
+http://workshop.molecularevolution.org/resources/fileformats/
+
+The syntax also takes in consideration some reserved words (private block) used for MrBayes. For the most curious, a screenshot can be seen at
+
+http://carvalho.webhop.net/nexus_vim.png
